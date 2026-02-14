@@ -84,7 +84,7 @@
     "zone.js": "0.13.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "16.2.0",
+    "@angular-devkit/build-angular": "20.0.0",
     "@angular-eslint/eslint-plugin": "16.2.0",
     "@angular/cli": "16.2.0",
     "@angular/compiler-cli": "16.2.1",
@@ -113,7 +113,7 @@
     "cypress": "14.5.3",
     "cypress-fail-fast": "7.1.1",
     "del": "8.0.0",
-    "eslint": "8.57.0",
+    "eslint": "10.0.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-prettier": "5.2.6",

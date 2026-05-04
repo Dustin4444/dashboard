@@ -1,0 +1,30 @@
+{
+  "name": "dustin4444-dashboard",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@8.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .ts,.tsx,.js,.jsx,.vue .",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.0",
+    "nuxt": "^3.8.0",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "eslint": "^8.50.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}

@@ -339,15 +339,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/common@npm:16.2.1":
-  version: 16.2.1
-  resolution: "@angular/common@npm:16.2.1"
+"@angular/common@npm:19.2.16":
+  version: 19.2.16
+  resolution: "@angular/common@npm:19.2.16"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
-    "@angular/core": 16.2.1
+    "@angular/core": 19.2.16
     rxjs: ^6.5.3 || ^7.4.0
-  checksum: fcaf6ac7a9de90798641b654db3051d1e93665d5dc28f558522a62da7f4af11db8832f7c38930af3248a188fb52680c955959c533d29d8972d887d3c749b4fe5
+  checksum: e8fe8de10f5de7e1d035e6789b418e0e5cb59e30e2f8374dfcc77db7ea96d0448f37055c237f45249123bc4bbbe27807d7d2a230412c49152545f4a18b94beb0
   languageName: node
   linkType: hard
 
@@ -12535,7 +12535,7 @@ __metadata:
 
 "fsevents@patch:fsevents@^2.3.2#~builtin<compat/fsevents>, fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.3
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.3#~builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.3#~builtin<compat/fsevents>::version=2.3.3&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -15148,7 +15148,7 @@ __metadata:
     "@angular/animations": 16.2.1
     "@angular/cdk": 14.2.7
     "@angular/cli": 16.2.0
-    "@angular/common": 16.2.1
+    "@angular/common": 19.2.16
     "@angular/compiler": 16.2.1
     "@angular/compiler-cli": 16.2.1
     "@angular/core": 16.2.1
@@ -18300,7 +18300,7 @@ __metadata:
 
 "resolve@patch:resolve@1.22.2#~builtin<compat/resolve>":
   version: 1.22.2
-  resolution: "resolve@patch:resolve@npm%3A1.22.2#~builtin<compat/resolve>::version=1.22.2&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.2#~builtin<compat/resolve>::version=1.22.2&hash=07638b"
   dependencies:
     is-core-module: ^2.11.0
     path-parse: ^1.0.7
@@ -18313,7 +18313,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.10.1#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>, resolve@patch:resolve@^1.20.0#~builtin<compat/resolve>":
   version: 1.22.8
-  resolution: "resolve@patch:resolve@npm%3A1.22.8#~builtin<compat/resolve>::version=1.22.8&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.8#~builtin<compat/resolve>::version=1.22.8&hash=07638b"
   dependencies:
     is-core-module: ^2.13.0
     path-parse: ^1.0.7
@@ -20507,7 +20507,7 @@ __metadata:
 
 "typescript@patch:typescript@5.1.6#~builtin<compat/typescript>":
   version: 5.1.6
-  resolution: "typescript@patch:typescript@npm%3A5.1.6#~builtin<compat/typescript>::version=5.1.6&hash=d73830"
+  resolution: "typescript@patch:typescript@npm%3A5.1.6#~builtin<compat/typescript>::version=5.1.6&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -20517,7 +20517,7 @@ __metadata:
 
 "typescript@patch:typescript@^5.4.2#~builtin<compat/typescript>":
   version: 5.4.3
-  resolution: "typescript@patch:typescript@npm%3A5.4.3#~builtin<compat/typescript>::version=5.4.3&hash=d73830"
+  resolution: "typescript@patch:typescript@npm%3A5.4.3#~builtin<compat/typescript>::version=5.4.3&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
